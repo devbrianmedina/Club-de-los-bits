@@ -18,3 +18,12 @@
 | `wchar_t` | Carácter de 16 bits con signo | -32,768 a 32,767 |
 | `char16_t` | Carácter de 16 bits sin signo | 0 a 65,535 |
 | `char32_t` | Carácter de 32 bits sin signo | 0 a 4,294,967,295 |
+
+## Operadores aritméticos
+| Operador | Descripción |
+| -------- | ----------- |
+| +        | Suma        |
+| -        | Resta       |
+| *        | Multiplicación |
+| /        | División    |
+| %        | Resto de la división |
