@@ -2,7 +2,7 @@
 | Operador | Descripción                                     |
 |----------|-------------------------------------------------|
 | `&&`     | Operador AND lógico. Devuelve `true` si ambos operandos son verdaderos.     |
-| `||`     | Operador OR lógico. Devuelve `true` si al menos uno de los operandos es verdadero. |
+| `\|\|`     | Operador OR lógico. Devuelve `true` si al menos uno de los operandos es verdadero. |
 | `!`      | Operador NOT lógico. Invierte el valor del operando. Si es verdadero, devuelve `false`. Si es falso, devuelve `true`.      |
 
 ## Operadores aritméticos
