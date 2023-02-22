@@ -111,7 +111,7 @@ Por ejemplo:
 int contador = 0;
 
 while (contador < 10) {
-  std::cout << contador << std::endl;
+  cout << contador << endl;
   contador++;
 }
 ```
