@@ -1,5 +1,13 @@
 ## Estructuras de control de flujo
 
+### Contenido
+- [if](#estructura-if)
+- [if else](#estructura-if-else)
+- [switch](#estructura-switch)
+- [while](#estructura-while)
+- [do-while](#estructura-do-while)
+- [for](#estructura-for)
+
 ### Estructura if
 La estructura "if" permite realizar una acción si una condición es verdadera. La sintaxis es la siguiente:
 
@@ -117,3 +125,80 @@ while (contador < 10) {
 ```
 
 En este caso, se imprimirán los números del 0 al 9 en la consola, ya que el bloque de código dentro del while se ejecutará mientras la variable "contador" sea menor que 10. La variable "contador" se incrementa en 1 en cada iteración del bucle, de modo que en algún momento dejará de cumplirse la condición del while y se saldrá del bucle.
+
+### Estructura do-while
+El bucle "do-while" es una variante del bucle "while" en la que el bloque de código se ejecuta al menos una vez, independientemente de si la condición es verdadera o falsa. La sintaxis general del bucle "do-while" es la siguiente:
+
+```c++
+do {
+  // código a ejecutar
+} while (condición);
+```
+
+- El bloque de código dentro del "do" se ejecuta una vez.
+- La condición se evalúa después de cada iteración. Si la condición es verdadera, se vuelve a ejecutar el bloque de código. Si la condición es falsa, se sale del bucle.
+
+Por ejemplo, el siguiente código solicitará al usuario que ingrese un número entero positivo, y seguirá pidiendo un número hasta que el usuario ingrese un número válido:
+
+```c++
+int numero;
+
+do {
+  cout << "Ingresa un número entero positivo: ";
+  cin >> numero;
+} while (numero <= 0);
+```
+
+En este caso, el bloque de código dentro del "do" se ejecuta al menos una vez, y solicita al usuario un número entero positivo. La condición se evalúa después de cada iteración, y si el usuario ingresa un número válido, se sale del bucle.
+
+Otro ejemplo podría ser el siguiente código que imprime los números del 0 al 9:
+
+```c++
+int i = 0;
+
+do {
+  cout << i << endl;
+  i++;
+} while (i < 10);
+```
+
+En este caso, el bloque de código dentro del "do" se ejecuta al menos una vez, y luego se ejecuta repetidamente mientras "i" sea menor que 10. En cada iteración se imprime el valor de "i" y se incrementa en 1.
+
+Es importante tener en cuenta que la estructura "do-while" se utiliza cuando se necesita que el bloque de código se ejecute al menos una vez, aunque la condición sea falsa.
+
+### Estructura for
+La estructura "for" permite ejecutar un bloque de código un número determinado de veces. Se utiliza principalmente cuando se conoce de antemano el número de iteraciones que se van a realizar. La sintaxis general del bucle "for" es la siguiente:
+
+```c++
+for (inicialización; condición; actualización) {
+  // código a ejecutar en cada iteración
+}
+```
+
+- La inicialización se utiliza para establecer el valor inicial de una variable de control.
+- La condición es una expresión booleana que se evalúa antes de cada iteración. Si la condición es verdadera, se ejecuta el bloque de código dentro del "for". Si la condición es falsa, se sale del bucle.
+- La actualización se utiliza para modificar la variable de control después de cada iteración.
+
+Por ejemplo, el siguiente código imprimirá los números del 0 al 9:
+
+```c++
+for (int i = 0; i < 10; i++) {
+  cout << i << endl;
+}
+```
+
+En este caso, la variable "i" se inicializa en 0, la condición es que "i" sea menor que 10, y la actualización incrementa "i" en 1 en cada iteración.
+
+Otro ejemplo podría ser recorrer un arreglo:
+
+```c++
+int numeros[] = {1, 2, 3, 4, 5};
+
+for (int i = 0; i < 5; i++) {
+  cout << numeros[i] << endl;
+}
+```
+
+En este caso, la variable "i" se utiliza como índice para acceder a los elementos del arreglo "numeros". La condición es que "i" sea menor que la longitud del arreglo (en este caso, 5), y la actualización incrementa "i" en 1 en cada iteración.
+
+Es importante destacar que la estructura "for" también puede utilizarse para iterar sobre otros tipos de estructuras de datos, como listas o mapas, o para realizar otras acciones en cada iteración, como realizar operaciones matemáticas o de lógica.
