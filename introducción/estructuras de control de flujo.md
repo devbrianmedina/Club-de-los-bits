@@ -55,6 +55,8 @@ if (edad >= 18) {
 En este caso, si la variable "edad" es mayor o igual a 18, se imprimirá en la consola el mensaje "Eres mayor de edad". Si la variable "edad" es menor de 18, se imprimirá en la consola el mensaje "Eres menor de edad".
 
 ### Estructura switch
+> Nota: En la expresion no es posible utilizar textos (string) solo es posible utilizar caracteres (char)
+
 La estructura "switch" permite evaluar una expresión y ejecutar una acción en función del valor de dicha expresión. La sintaxis es la siguiente:
 
 ```c++
