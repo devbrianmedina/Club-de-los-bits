@@ -5,3 +5,4 @@
 - [Estructuras de control de flujo](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/introducci%C3%B3n/estructuras%20de%20control%20de%20flujo.md).
 - [Funciones](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/introducci%C3%B3n/funciones.md).
 - [Arreglos](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/introducci%C3%B3n/arreglos.md).
+- [Punteros](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/introducci%C3%B3n/punteros.md).
