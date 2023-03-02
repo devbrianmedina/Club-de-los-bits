@@ -6,6 +6,7 @@ int main() {
     //cout << "Ingrese una opción del 1 al 3: ";
     cin >> opcion;
 
+    //NOTA: Recuerda que no puedes utilizar textos (ejemplo con caracteres: https://github.com/devbrianmedina/Club-de-los-bits/blob/main/plantillas/ejemplo_switch_caracteres.cpp)
     switch (opcion) {
         case 1:
             cout << "Seleccionaste la opción 1" << endl;
