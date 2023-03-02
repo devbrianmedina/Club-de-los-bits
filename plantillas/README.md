@@ -8,3 +8,5 @@
 - [Ejemplo con do-while](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/plantillas/ejemplo_do_while.cpp).
 - [Ejemplo con switch](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/plantillas/ejemplo_switch.cpp).
 - [Ejemplo utilizando caracteres con switch](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/plantillas/ejemplo_switch_caracteres.cpp).
+- [Ejemplo con arreglos](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/plantillas/ejemplo_arreglos.cpp).
+- [Ejemplo con hashmap](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/plantillas/ejemplo_hashmap.cpp).
