@@ -6,7 +6,7 @@ using namespace std;
 
 void ordenar(int numeros[], string nombres[], int n)
 {
-    // Algoritmo de ordenamiento por inserción
+    // Algoritmo de ordenamiento por seleccion
     for (int i = 1; i < n; i++)
     {
         int indice = i;
