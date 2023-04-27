@@ -1,6 +1,6 @@
 #include <iostream>
 #include <algorithm> // Librería para utilizar la función sort()
-#include <string> // Librería para trabajar con strings
+#include <string>
 
 using namespace std;
 
