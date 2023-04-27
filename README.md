@@ -3,6 +3,10 @@
 - [2. Práctica de Búsqueda Binaria](https://github.com/devbrianmedina/Club-de-los-bits/tree/main/codigos/Algoritmos-Parte-I/2-B%C3%BAsqueda-Binaria).
   - [A. Alicia y las llaves doradas de las puertas](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/codigos/Algoritmos-Parte-I/2-B%C3%BAsqueda-Binaria/A_Alicia.cpp).
   - [B. Posicion Fibonacci](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/codigos/Algoritmos-Parte-I/2-B%C3%BAsqueda-Binaria/B_Posicion_Fibonacci.cpp).
+  - [C. Fulanito](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/codigos/Algoritmos-Parte-I/2-B%C3%BAsqueda-Binaria/C_Fulanito.cpp).
+  - [D. Agresivos](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/codigos/Algoritmos-Parte-I/2-B%C3%BAsqueda-Binaria/D_Agresivos.cpp).
+
+
 ### Contenido
 - [Buenas prácticas para programar](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/introducci%C3%B3n/buenas_practicas.md).
 - [Plantillas](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/plantillas/README.md).
