@@ -1,5 +1,4 @@
 #include <iostream>
-#include <algorithm> // Librería para utilizar la función sort()
 #include <string>
 
 using namespace std;
