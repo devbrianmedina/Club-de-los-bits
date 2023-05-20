@@ -15,7 +15,13 @@
   - [C. Coeficiente binomial recursivo](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/codigos/Algoritmos-Parte-I/7.Pr%C3%A1cticaDeAlgoritmosRecursivos/C.CoeficienteBinomialRecursivo.cpp).
   - [D. Calificaciones recursivas](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/codigos/Algoritmos-Parte-I/7.Pr%C3%A1cticaDeAlgoritmosRecursivos/D.CalificacionesRecursivas.cpp).
 - [9. Práctica de Ordenamiento por Mezcla](https://github.com/devbrianmedina/Club-de-los-bits/tree/main/codigos/Algoritmos-Parte-I/9.Pr%C3%A1cticaDeOrdenamientoPorMezcla).
+  - [C. El cactus más alto en el horizonte](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/codigos/Algoritmos-Parte-I/9.Pr%C3%A1cticaDeOrdenamientoPorMezcla/C.ElCactusM%C3%A1sAltoEnElHorizonte.cpp).
+  - [E. Nieves y el merge-sort](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/codigos/Algoritmos-Parte-I/9.Pr%C3%A1cticaDeOrdenamientoPorMezcla/E.NievesyElMerge-sort.cpp).
 - [11. Práctica de Ordenamiento Rápido](https://github.com/devbrianmedina/Club-de-los-bits/tree/main/codigos/Algoritmos-Parte-I/11.Pr%C3%A1cticaDeOrdenamientoR%C3%A1pido).
+  - [A. Ordenando Edades](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/codigos/Algoritmos-Parte-I/11.Pr%C3%A1cticaDeOrdenamientoR%C3%A1pido/A.OrdenandoEdades.cpp).
+  - [B. PostesDF](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/codigos/Algoritmos-Parte-I/11.Pr%C3%A1cticaDeOrdenamientoR%C3%A1pido/B.PostesDF.cpp).
+  - [C. Frequency Sort](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/codigos/Algoritmos-Parte-I/11.Pr%C3%A1cticaDeOrdenamientoR%C3%A1pido/C.FrequencySort.cpp).
+  - [D. Encuesta Reloaded](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/codigos/Algoritmos-Parte-I/11.Pr%C3%A1cticaDeOrdenamientoR%C3%A1pido/D.EncuestaReloaded.cpp).
 
 
 ### Contenido
