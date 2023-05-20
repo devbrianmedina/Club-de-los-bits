@@ -5,6 +5,10 @@
   - [B. Posicion Fibonacci](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/codigos/Algoritmos-Parte-I/2-B%C3%BAsqueda-Binaria/B_Posicion_Fibonacci.cpp).
   - [C. Fulanito](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/codigos/Algoritmos-Parte-I/2-B%C3%BAsqueda-Binaria/C_Fulanito.cpp).
   - [D. Agresivos](https://github.com/devbrianmedina/Club-de-los-bits/blob/main/codigos/Algoritmos-Parte-I/2-B%C3%BAsqueda-Binaria/D_Agresivos.cpp).
+- [5. Práctica de Ordenamiento por Selección](https://github.com/devbrianmedina/Club-de-los-bits/tree/main/codigos/Algoritmos-Parte-I/5.Pr%C3%A1cticaDeOrdenamientoPorSelecci%C3%B3n).
+- [7. Práctica de Algoritmos Recursivos](https://github.com/devbrianmedina/Club-de-los-bits/tree/main/codigos/Algoritmos-Parte-I/7.Pr%C3%A1cticaDeAlgoritmosRecursivos).
+- [9. Práctica de Ordenamiento por Mezcla](https://github.com/devbrianmedina/Club-de-los-bits/tree/main/codigos/Algoritmos-Parte-I/9.Pr%C3%A1cticaDeOrdenamientoPorMezcla).
+- [11. Práctica de Ordenamiento Rápido](https://github.com/devbrianmedina/Club-de-los-bits/tree/main/codigos/Algoritmos-Parte-I/11.Pr%C3%A1cticaDeOrdenamientoR%C3%A1pido).
 
 
 ### Contenido
